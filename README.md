@@ -10,6 +10,6 @@ If you want to collaborate to any of my projects, you are **very welcome to do s
 
 ### My currently top projects:
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ytorg&repo=uuttff8&theme=dark)](https://github.com/uuttff8/Niceter)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=uuttff8&repo=Niceter&theme=dark)](https://github.com/uuttff8/Niceter)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pluja&repo=uuttff8&theme=dark)](https://github.com/uuttff8/Evolution)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=uuttff8&repo=Evolution-iOS&theme=dark)](https://github.com/uuttff8/Evolution-iOS)
