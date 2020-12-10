@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**uuttff8/uuttff8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm interested in building amazing, UX-related iOS clients for services, such as Niceter
 
-Here are some ideas to get you started:
+If you want to collaborate to any of my projects, you are **very welcome to do so**. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/uuttff8">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=uuttff8&show_icons=true&theme=dark" alt="Details card" />
+</a>
+
+### My currently top projects:
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ytorg&repo=uuttff8&theme=dark)](https://github.com/uuttff8/Niceter)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pluja&repo=uuttff8&theme=dark)](https://github.com/uuttff8/Evolution)
